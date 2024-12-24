@@ -1,0 +1,7 @@
+Four Thousand Eighteen 
+Four Thousand Seven Hundred Ninety Nine 
+Six Thousand Three Hundred Sixty Five 
+Three Thousand Fifteen 
+Invalid Input (Invalid character/s: 1 2 3 4 5 6 )
+Invalid Input (Invalid character/s: R E G )
+Four 
